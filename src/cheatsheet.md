@@ -11,7 +11,7 @@
 * `mv` - use this to either move a file to a different directory or rename
 > Note: mv [file_name] .. using the .. shortcut allows you to move files in "the directory above this one"
 * `cp` - used for copying a file
-* `rm` - deletes a file
+* `rm` - deletes files 
 
 > Note: when using rm to delete a file, the deleted file does not go to the bin, so you cannot restore the deleted file after using rm
 
